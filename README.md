@@ -12,7 +12,7 @@
 # 🌐 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/hatim-lalji-396b15264" target="blank">
-  <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
+<!--   <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /> -->
 </a>
 <a href="https://instagram.com/hatim_lalji" target="blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" height="40" width="40" />
